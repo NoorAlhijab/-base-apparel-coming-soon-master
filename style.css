@@ -25,12 +25,12 @@ body{
 }
 .left-text{
     max-width: 450px;
-    margin: auto;
+ 
 }
 .left-text h1 {
     text-transform: uppercase;
-    font-size: 2.5rem;
-    font-weight: 400;
+    font-size: 3rem;
+    font-weight: 600;
     letter-spacing: 20px;
     line-height: 1.2;
     margin-top: 60px;
