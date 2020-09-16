@@ -23,7 +23,10 @@ body{
 .logo{
   margin: 20px 0;
 }
-
+.left-text{
+    max-width: 450px;
+    margin: auto;
+}
 .left-text h1 {
     text-transform: uppercase;
     font-size: 2.5rem;
@@ -40,7 +43,7 @@ body{
 .left-text p{
     color: hsl(0, 36%, 70%);
    line-height: 1.5;
-   font-size: 19px;
+   font-size: 18px;
    font-weight: 300;
    margin: 40px auto;
    padding-right: 30px;
